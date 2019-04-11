@@ -1,0 +1,11 @@
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/bin/Debug/netcoreapp2.2/tryCatches.deps.json
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/bin/Debug/netcoreapp2.2/tryCatches.runtimeconfig.json
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/bin/Debug/netcoreapp2.2/tryCatches.runtimeconfig.dev.json
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/bin/Debug/netcoreapp2.2/tryCatches.dll
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/bin/Debug/netcoreapp2.2/tryCatches.pdb
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.csprojAssemblyReference.cache
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.csproj.CoreCompileInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.AssemblyInfoInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.AssemblyInfo.cs
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.dll
+/Users/dominickantrude/workspace/csharp/exercises/tryCatches/obj/Debug/netcoreapp2.2/tryCatches.pdb
